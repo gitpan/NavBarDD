@@ -1,0 +1,6 @@
+Revision history for Perl extension Apache::NavBarDD.
+
+0.7  Mon Nov  4 16:11:43 2002
+	- original version; created by h2xs 1.21 with options
+		-A -X -n Apache::NavBarDD
+
